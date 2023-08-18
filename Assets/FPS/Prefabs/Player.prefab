@@ -528,7 +528,7 @@ MonoBehaviour:
   RefillDurationGrounded: 2
   RefillDurationInTheAir: 5
   RefillDelay: 1
-  JetpackSfx: {fileID: 8300000, guid: 01a15bd1861d7914abbedc36aad1f4d6, type: 3}
+  JetpackSfx: {fileID: 8300000, guid: 31197a199381a774fb5a38e20b2d0f9b, type: 3}
 --- !u!143 &3122855503829242450
 CharacterController:
   m_ObjectHideFlags: 0
