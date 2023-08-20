@@ -807,6 +807,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6867164318176036221}
     m_Modifications:
+    - target: {fileID: 5100096001630503042, guid: a97594f460be62643a1d35bb12f838ef,
+        type: 3}
+      propertyPath: ShapeModule.angle
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 8660994143803176841, guid: a97594f460be62643a1d35bb12f838ef,
         type: 3}
       propertyPath: m_Name
@@ -820,7 +825,7 @@ PrefabInstance:
     - target: {fileID: 8757216368396538476, guid: a97594f460be62643a1d35bb12f838ef,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8757216368396538476, guid: a97594f460be62643a1d35bb12f838ef,
         type: 3}
@@ -830,7 +835,7 @@ PrefabInstance:
     - target: {fileID: 8757216368396538476, guid: a97594f460be62643a1d35bb12f838ef,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.296
+      value: -0.398
       objectReference: {fileID: 0}
     - target: {fileID: 8757216368396538476, guid: a97594f460be62643a1d35bb12f838ef,
         type: 3}
